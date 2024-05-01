@@ -1,5 +1,5 @@
 """
-Question 2: Leia um número real e o imprima.
+Question 4: Leia um número real e o imprima.
 """
 
 numero_real = float(input("Digite um número real: "))
