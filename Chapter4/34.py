@@ -4,7 +4,7 @@ Question 34
 
 import math as mt
 
-raio_circulo = float(input('Entre com o rádio de um círculo: '))
+raio_circulo = float(input('Entre com o raio de um círculo: '))
 
 area_circulo = mt.pi * mt.pow(raio_circulo, 2)
 
