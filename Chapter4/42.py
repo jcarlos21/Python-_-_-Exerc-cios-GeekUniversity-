@@ -2,7 +2,6 @@
 Question 42
 """
 
-
 salario_base = float(input('Entre com o salário-base do funcionário: '))
 
 gratificacao = salario_base * 0.05
