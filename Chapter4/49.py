@@ -17,5 +17,4 @@ nova_hora = hora + hora_add
 novo_minuto = minuto + minuto_add
 novo_segundo = segundo + segundo_add
 
-
 print(f'O término do experimento foi às {nova_hora}:{novo_minuto}:{novo_segundo}.')
